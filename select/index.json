@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "base_track": "碧いif",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-03-23T13:11:17.766585Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "碧いif",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_碧いif_トゲナシトゲアリ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "碧いif",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/localdb_01_碧いif_トゲナシトゲアリ.txt",
+      "repo_name": "84afUFQ8z5I"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "碧いif",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/localdb_02_碧いif_トゲナシトゲアリ.txt",
+      "repo_name": "3wtT8CTcprc"
+    }
+  ]
+}
